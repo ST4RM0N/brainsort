@@ -1,0 +1,10 @@
+{
+  "skill": "brainsort",
+  "test_cases": [
+    {"input": "brainsort my workflow", "should_trigger": true},
+    {"input": "@brainsort publish grok-bot-pages skill", "should_trigger": true},
+    {"input": "heal the NEXUS latent space with frequency sorting", "should_trigger": true},
+    {"input": "create a random PDF", "should_trigger": false},
+    {"input": "what's the weather", "should_trigger": false}
+  ]
+}
