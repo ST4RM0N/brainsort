@@ -1,20 +1,20 @@
 {
-  "skill": "brainsort",
+  "skill": "brainsort-grok-bot-pages",
   "test_cases": [
     {
-      "name": "live_nexus_heal",
-      "input": "brainsort the latent space and make a skills dashboard page",
-      "assertions": ["fetches live NEXUS counts", "produces copy-paste page package", "includes Last updated and no-guessing rule", "sorts by frequency"]
+      "name": "create_skills_dashboard",
+      "input": "Make me a brainsort skills dashboard page for NEXUS Prime",
+      "assertions": ["Produces copy-paste build package", "Includes frequency sorting guidance", "References live NEXUS counts without inventing", "Adds reverse-entropy next action"]
     },
     {
-      "name": "bookmark_crosslink",
-      "input": "turn my bookmarks into a better builds next action using brainsort",
-      "assertions": ["pulls high-signal intent", "maps to NP- nodes", "recommends reverse-entropy move", "frequency sorted"]
+      "name": "turn_workflow_into_page",
+      "input": "Turn my entire NEXUS healing workflow into a living page",
+      "assertions": ["Clarifies intent briefly", "Outputs === COPY START === block", "Applies Conscious Frequency table", "Surfaces missing data rule"]
     },
     {
-      "name": "keep_current",
-      "input": "update the existing brainsort page with latest NEXUS state",
-      "assertions": ["offers update language that keeps the same page", "grounds in live site", "marks unverified as missing"]
+      "name": "keep_page_current",
+      "input": "How do I keep my brainsort page up to date with the live site?",
+      "assertions": ["Provides exact update language", "Mentions Last updated and no guessing", "Suggests routine option"]
     }
   ]
 }

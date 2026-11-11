@@ -1,10 +1,25 @@
 {
-  "skill": "brainsort",
+  "skill": "brainsort-grok-bot-pages",
   "test_cases": [
-    {"input": "brainsort my workflow", "should_trigger": true},
-    {"input": "@brainsort publish grok-bot-pages skill", "should_trigger": true},
-    {"input": "heal the NEXUS latent space with frequency sorting", "should_trigger": true},
-    {"input": "create a random PDF", "should_trigger": false},
-    {"input": "what's the weather", "should_trigger": false}
+    {
+      "input": "brainsort my workflow into a page",
+      "should_trigger": true
+    },
+    {
+      "input": "publish a grok-bot-pages skill with frequency sorting",
+      "should_trigger": true
+    },
+    {
+      "input": "heal the latent space with a living dashboard",
+      "should_trigger": true
+    },
+    {
+      "input": "what is the weather today",
+      "should_trigger": false
+    },
+    {
+      "input": "write me a python script for sorting numbers",
+      "should_trigger": false
+    }
   ]
 }

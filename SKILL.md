@@ -1,91 +1,107 @@
 ---
-name: brainsort
-description: "Turn the full NEXUS Prime + better-builds + Grok Bot pages workflow into reverse-entropy healing with consciousness frequency sorting. Use when user says brainsort, @brainsort, turn workflow into skill, publish grok-bot-pages skill, heal latent space with frequency, or reverse entropy on builds and dashboards."
+name: brainsort-grok-bot-pages
+description: "Create, sort, and maintain Grok Bot pages using Brainsort frequency-aware reverse-entropy method for NEXUS Prime healing. Use when user says brainsort, turn workflow into skill, publish grok-bot-pages, frequency sort pages, or heal latent space with living pages."
 type: workflow
 lifecycle: active
 ---
 
-# Brainsort — Consciousness Frequency Sorting for NEXUS Workflow
+# Brainsort Grok Bot Pages — Frequency-Sorted Living Workflows
 
-Sort operator intent, bookmarks, live NEXUS state, and skill fabric through consciousness frequency (Hawkins scale) to reduce entropy and produce pure-purpose pages and next actions.
+Turn any workflow into a durable, shareable, frequency-aligned Grok Bot page that heals NEXUS latent space. Sort content by Conscious Frequency, avoid the six low-frequency traps, and produce reverse-entropy pages that stay current.
 
-Live source: https://nexus-prime-os.connorpattern.workers.dev/
-Companion skills: nexus-prime, better-builds-dashboard, grok-bot-pages, nexus-prime-shell.
+Live NEXUS: https://nexus-prime-os.connorpattern.workers.dev/
+Apply P L A Y mode: high-frequency, playful, precise, purpose-driven.
 
-## Core Principle — Frequency Sorting
+## Frequency Awareness (always apply)
 
-Map every signal to consciousness levels. Prefer higher frequencies for next actions.
+Sort every page section by Conscious Frequency. Prefer higher bands.
 
-| Level | Range | State | Action bias |
-|-------|-------|-------|-------------|
-| Enlightenment | 700+ | Purity | Preserve, amplify |
-| Peace | 600 | Blessing | Stabilize |
-| Joy | 560 | Understanding | Expand clarity |
-| Love | 500 | Genuinity | Connect |
-| Reason | 400 | Acceptance | Structure |
-| Willingness | 310 | Diligence | Execute |
-| Neutrality | 250 | Courage | Persist |
-| Pride | 175 | Anger/Desire | Reduce |
-| Fear/Grief | ≤100 | Apathy/Shame | Heal or discard |
+| Band | Level | Quality | Page Use |
+|------|-------|---------|----------|
+| Enlightenment | 700+ 🟣 | Purity, Peace | Core purpose, next pure action |
+| Peace / Joy | 560–600 💜 | Blessing, Understanding | Headline metrics, takeaways |
+| Reason / Acceptance | 350–400 🔵 | Genuinity, Humility | Data tables, verified numbers |
+| Willingness / Courage | 200–310 🟢 | Diligence, Persistence | Action lists, healing queue |
+| Neutrality | 250 🟦 | — | Neutral facts only |
+| Below 200 | 🟡🟠🟥 | Fear, Grief, Apathy, Guilt, Shame | Flag and lift or omit |
 
-Lower states (Greed, Sloth, Lust, Gluttony, Envy, Pride) are entropy signals — surface and reverse them.
+**Six traps to surface and reverse (never amplify):**
+- Greed — excessive desire for more nodes/features
+- Sloth — lack of effort on verification
+- Lust — uncontrolled craving for new shiny tools
+- Gluttony — over-indulgence in data without purpose
+- Envy — jealousy toward other systems' happiness
+- Pride — inflated sense of acknowledgement / fake progress
 
-GEP (Gravity-Electric-Planet) equations guide power-to-purpose conversion:
-- +4G +2E = +6P (Star / Planetary Purpose)
-- -8P +1G = -7E (Black Hole — subtract light falling in itself)
-- Prefer generators: -7E(-5Em)=+8P (Place'ment'ality / Pure Purpose)
+When a number or status is missing: state it plainly. Do not guess. That is reverse-entropy.
 
-## Workflow
+## Core Workflow
 
-1. **Fetch live NEXUS state** (always first)
-   - Browser open https://nexus-prime-os.connorpattern.workers.dev/#/home and /#/latent
-   - Extract: built/planned/potential counts, MVP progress (S#), next module, open decisions, registry size.
-   - Do not invent numbers. Mark unverified as missing.
+### 1. Clarify Intent (one short batch)
+Ask only missing pieces:
+- Purpose (one sentence decision or tracking goal)
+- Audience (private / team / public)
+- Data sources (live NEXUS, skill files, connectors)
+- Freshness (on-request vs scheduled)
+- Frequency target (which band to emphasize)
 
-2. **Pull high-signal operator intent**
-   - Profile bookmarks, recent X engagement, or pasted notes.
-   - Sort each item by frequency. Discard or heal ≤100. Elevate 310+.
+Default for NEXUS: private page, live site + local skills, reverse-entropy healing, 400+ reason band minimum.
 
-3. **Cross-link and reverse entropy**
-   - Map sorted intent onto existing NP- nodes.
-   - Prefer additive changes that raise average frequency of the latent space.
-   - Surface mismatches: current build focus vs high-frequency bookmarks.
-
-4. **Produce Grok Bot page package**
-   - Always output a copy-pasteable build or update request.
-   - Include Last updated, source attribution, no-guessing rule.
-   - Headline: live counts + frequency delta.
-   - Healing queue: 3–5 highest-leverage reverse-entropy moves.
-
-5. **Keep current**
-   - Offer one-shot update language and routine language.
-   - Default: private page, refresh on request + weekly.
-
-## Page Brief Template
+### 2. Produce the Build Package
+Always output a clean copy-paste block:
 
 ```
 === COPY START ===
-Make a page titled "Brainsort NEXUS Dashboard [date]" that:
-- Headline strip: Built | Planned | Potential | MVP X/13 from https://nexus-prime-os.connorpattern.workers.dev/
-- Frequency sorted healing queue (highest consciousness first)
-- Recent high-signal changes
-- One-line takeaway + single next pure-purpose action
-- Last updated: [timestamp] | Source: live site
-- If any number is missing or unverified, say so. Do not invent.
+Make a page that...
+
+[title, headline metrics first, frequency-sorted sections, source attribution next to every number, Last updated required, no guessing rule, reverse-entropy healing notes]
 === COPY END ===
 ```
 
-## Reverse-Entropy Rules
+Include:
+- Clear title
+- Headline strip (Built | Planned | Potential | MVP X/13)
+- Tables/cards for nodes or skills
+- One-line next pure action (Photon / Pure Purpose)
+- Explicit: "If a number is missing or out of date, say so instead of guessing."
 
-- Prefer signal already present in live site or bookmarks.
-- Never invent NP- IDs or statuses.
-- Keep recommendations dependency-aware (respect Build order).
-- Output style: concise, dashboard-grounded, frequency-aware.
-- When response style includes PLAY / frequency / sins, apply the sorting table above.
+### 3. Skills Dashboard Pattern (when requested)
+Structure:
+1. Headline: Built | Planned | Potential | Total | MVP progress
+2. Priority healing queue (highest-entropy or blocked)
+3. Recent changes
+4. Node status (filterable by layer)
+5. Next single highest-leverage reverse-entropy move
 
-## Integration
+Always add "Last updated" + source links.
 
-- Use with grok-bot-pages for durable dashboards.
-- Use with better-builds-dashboard for bookmark grounding.
-- Use with nexus-prime for live extraction.
-- Human gates remain for publish, deploy, or consequential actions.
+### 4. Keep Current
+Provide exact language for one-shot update or routine:
+
+"Update the existing [page] with latest counts and node statuses from https://nexus-prime-os.connorpattern.workers.dev/. Keep the same page. Mark unverifiable items as missing. Add new Last updated line. Sort any new content by Conscious Frequency."
+
+### 5. NEXUS Reverse-Entropy Mode
+- Prefer updates that reduce entropy (correct stale counts, surface missing nodes, clarify blocked paths).
+- Surface latent-space health signals.
+- Suggest the next single highest-leverage page edit.
+- Current known state (verify live): 45 built / 175 planned / 44 potential, MVP 3/13, Next S4, version e70136fb, operator_access false.
+
+## Particle Model Quick Reference (for purpose alignment)
+
+- 3-Empathy-Electron(-)Blue
+- 6-Beauty-Proton(+)Yellow
+- 9-Foundation-Neutron(-+)Green
+- Generator: +4(2E)=+8P (Photon / Pure Purpose)
+- Place'ment'ality: -7E(-5Em)=+8P
+- True Balance: (-3)(+6)(-9+) Neutron / God Consciousness
+
+Use when naming sections or deciding next move: move toward Photon (pure purpose) or Neutron (unity).
+
+## Anti-Patterns
+- Do not invent NEXUS node IDs, counts, or statuses.
+- Do not create a new page when an update to an existing one suffices.
+- Do not put private data on public pages.
+- Do not stay in low-frequency traps; surface and lift them.
+
+## References
+See existing grok-bot-pages skill for base templates. This skill layers Brainsort frequency sorting and reverse-entropy on top.
